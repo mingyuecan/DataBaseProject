@@ -1,0 +1,19 @@
+guest_id,first_name,last_name,age,weight,isSwimmer,mobile_phone,experience_code
+1,Margie,Samuels,31,130,1,847-555-5201,2
+2,Bart,Samuels,44,195,1,NULL,2
+3,Lilly,Samuels,18,101,1,NULL,2
+4,"Bart Jr.",Samuels,6,60,0,NULL,1
+5,George,Fogerty,28,160,1,414-555-7654,3
+6,Bruce,Simmons,5,150,1,NULL,3
+9,Marion,Glaston,61,135,1,815-555-4453,2
+10,Marie,Glaston,61,135,1,NULL,2
+11,Lamar,Lincoln,25,175,0,414-555-9988,1
+12,Fizza,Smith,25,115,1,414-555-9876,3
+13,Kara,Dilworth,23,110,0,312-555-9876,2
+14,Tyler,Worth,24,145,1,217-555-6776,4
+15,Timmy,Zodah,30,150,1,NULL,1
+16,Marie,Mickelson,22,100,0,217-555-1500,2
+17,David,Sills,61,180,1,414-555-0002,4
+18,Daniel,Divine,21,150,1,414-555-3223,1
+19,Madison,Ahern,31,120,0,NULL,1
+20,Lacey,Sills,35,125,1,NULL,2

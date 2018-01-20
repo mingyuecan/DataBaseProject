@@ -1,0 +1,8 @@
+employee_id,first_name,last_name,nickname,mobile_phone,home_phone,availability_notes
+1,"Wilma C.",Carson,Wilma,414-555-1234,414-555-9876,"Year round, full-time"
+2,"Walter C.",Carson,Bud,414-555-1235,414-555-9876,"Year round, full-time, except for deer hunting season"
+3,"Anne B.",Schultz,Annie,414-555-1266,414-555-2121,"Year round, full-time, except for August vacation"
+4,Joshua,Green,Josh,414-555-1268,NULL,"Summers, full-time"
+5,"William R.","Wagner  III",Billy,414-555-1271,414-555-3259,"Summers, full-time, returns to school on August 19th"
+6,Constance,Simms,Summer,414-555-1288,NULL,"Year round, part-time, as needed"
+7,"Blair Q.",McArthur,Blinky,414-555-1289,414-555-2121,"Year round, full-time, except for May vacation"
