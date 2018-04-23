@@ -1,6 +1,3 @@
-/*  
-	Please do not distribute exercise solutions
- */
 use my_guitar_shop;
 SELECT 
     c.category_name, p.product_id
