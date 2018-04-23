@@ -1,6 +1,3 @@
-/*  
-	Please do not distribute exercise solutions
- */
 use my_guitar_shop;
 SELECT 
     p1.product_name, p1.list_price
